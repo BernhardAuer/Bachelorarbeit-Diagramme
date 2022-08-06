@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-08-06T21:56:51.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.2.3" etag="eo070X9YD6ouB4CdVg_b" type="github"><diagram id="L6QXw0dG3dD8pc_UGCmN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-06T22:02:34.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="DbZar2-3PPGW83AT__vb" version="20.2.3" type="github">
+  <diagram id="L6QXw0dG3dD8pc_UGCmN" name="Seite-1">
+    <mxGraphModel dx="1422" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KSArzMEMdTZqEwOG6aDE-1" value="Plenarsitzungen Nationalrat" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="180" width="190" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="KSArzMEMdTZqEwOG6aDE-2" value="Date: date&#xa;Link: string&#xa;Title: string&#xa;LegislativePeriod: str&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KSArzMEMdTZqEwOG6aDE-1">
+          <mxGeometry y="26" width="190" height="76" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
